@@ -53,6 +53,7 @@
                             <Implementation-Version>${BUILD_TAG}</Implementation-Version>
                         </manifestEntries>
                     </archive>
+                    <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
                 </configuration>
             </plugin>
             <plugin>
